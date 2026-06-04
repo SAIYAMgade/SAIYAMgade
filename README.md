@@ -50,7 +50,8 @@
 
 ## 🌱 Currently Learning
 
-Agentic AI • Advanced RAG • Cloud Architecture • Data Engineering
+ Scalable Backend Systems • Agentic AI • Advanced RAG • Cloud Architecture • Data Engineering 
+
 
 ## 🌐 Connect With Me
 
