@@ -1,12 +1,12 @@
 # Hi, I'm Saiyam Gade
 
-### AI & Full-Stack Developer
+### AI & Full Stack Developer
 
 ## 💼 What I Do
 
-🔹 Build AI-powered applications using LLMs, RAG, LangChain, OpenAI, and Gemini APIs
+🔹 Build AI powered applications using LLMs, RAG, LangChain, OpenAI, and Gemini APIs
 
-🔹 Develop full-stack web applications with React, Next.js, Node.js, FastAPI, and MongoDB
+🔹 Develop full stack web applications with React, Next.js, Node.js, FastAPI, and MongoDB
 
 🔹 Create scalable backend systems, REST APIs, and cloud-based solutions
 
