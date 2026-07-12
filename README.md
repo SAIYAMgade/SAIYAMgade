@@ -55,8 +55,8 @@
 
 ## 🌐 Connect With Me
 
-LinkedIn: linkedin.com/in/saiyam-gade-66059125b
+LinkedIn: https://www.linkedin.com/in/saiyam-gade-66059125b/
 
-Email: [saiyam.22210287@viit.ac.in](mailto:saiyam.22210287@viit.ac.in)
+Email: [saiyamgade100@gmail.com](mailto:saiyamgade100@gmail.com)
 
 "Building software that solves real problems with AI."
